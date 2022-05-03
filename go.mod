@@ -18,11 +18,11 @@ require (
 	github.com/go-playground/locales v0.12.1 // indirect
 	github.com/go-playground/universal-translator v0.16.0 // indirect
 	github.com/go-test/deep v1.0.3
-	github.com/google/go-github/v31 v31.0.0
+	github.com/google/go-github/v28 v28.1.1
 	github.com/google/uuid v0.0.0-20161128191214-064e2069ce9c // indirect
 	github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f // indirect
 	github.com/gorilla/mux v1.6.2
-	github.com/hashicorp/go-getter v1.4.0
+	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-version v1.2.0
 	github.com/hashicorp/hcl v0.0.0-20170914154624-68e816d1c783 // indirect
 	github.com/hashicorp/terraform-config-inspect v0.0.0-20190821133035-82a99dc22ef4
@@ -52,7 +52,6 @@ require (
 	github.com/spf13/jwalterweatherman v0.0.0-20170901151539-12bd96e66386 // indirect
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.0.0
-	github.com/ulikunitz/xz v0.5.6 // indirect
 	github.com/urfave/cli v1.20.0
 	github.com/urfave/negroni v0.2.0
 	github.com/xanzy/go-gitlab v0.22.2-0.20191127083556-16a492660b8c
